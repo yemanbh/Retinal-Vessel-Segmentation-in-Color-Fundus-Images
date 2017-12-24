@@ -13,9 +13,10 @@ The goal of the project was to segment vessels of Retinal Color Fundus images. I
 ## sample input and output
 
 ![](images/Selection_026.png "Sample input and output image")
+![](images/Selection_027.png "Sample input and output image")
 
 ## sample output: True positive and False positive pixels
 Red collor indicates False positive and Yellow collor is for False positive.
 
-![](images/Selection_027.png "Sample input and output image")
+![](images/Selection_028.png "Sample input and output image")
 
